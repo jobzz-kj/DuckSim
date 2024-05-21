@@ -1,4 +1,5 @@
 **Overview**
+
 Open IntelliJ IDEA and create a new Kotlin project called DuckSim in your CS5704 directory.
 
 New project dialog for Kotlin DuckSim project
